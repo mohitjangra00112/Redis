@@ -1,0 +1,25 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitjangra00112/Redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohitjangra00112/Redis/issues"
+  },
+  "homepage": "https://github.com/mohitjangra00112/Redis#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.20.0",
+    "redis": "^5.11.0"
+  }
+}
